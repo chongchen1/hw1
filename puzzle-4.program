@@ -1,0 +1,16 @@
+ var count=0
+ while(count<4){
+ down
+ count=count+1
+ }
+Function moveToGreen{
+ right
+ var firstColor=getColor
+ down
+ setColor(firstColor)
+ right
+ right
+ }
+ up
+ moveToGreen
+ moveToGreen

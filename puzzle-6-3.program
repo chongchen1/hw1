@@ -1,0 +1,9 @@
+while(getColor!="blue"){
+  right
+}
+  down
+while(getColor!="red"){
+  down
+}
+  left
+  down

@@ -1,0 +1,16 @@
+Function goOneStep{
+ right
+ right
+ if(getColor=="blue"){
+  down
+  }
+  else{
+  up
+  }
+ }
+ goOneStep
+ goOneStep
+ goOneStep
+ right
+ right
+ right

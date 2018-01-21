@@ -1,0 +1,8 @@
+while(getColor!="red"){
+  right
+}
+while(getColor!="blue"){
+  up
+}
+  rght
+  up

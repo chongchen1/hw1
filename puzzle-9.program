@@ -1,0 +1,16 @@
+ right
+ right
+ down
+ down
+Function repeat(direction,n){
+ var count=0
+ while(count<n){
+   direction
+   getColor("blue")
+   count=count+1
+   }
+}
+repeat(right,6)
+repeat(down,5)
+repeat(left,6)
+repeat(up,5)

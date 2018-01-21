@@ -1,0 +1,14 @@
+Function moveToRed {
+  while(getColor!="red"){
+    down
+  }
+    right
+    right
+  while(getColor!="red"){
+    up
+  }
+    right
+    right
+}
+moveToRed
+moveToRed
